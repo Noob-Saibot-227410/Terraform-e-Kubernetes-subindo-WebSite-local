@@ -6,6 +6,7 @@ Com certeza! Segue o README atualizado com o objetivo do estudo:
     <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-0.15.5-blueviolet.svg"></a>
     <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-1.22.1-blue.svg"></a>
     <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-20.10.8-blue.svg"></a>
+    <br>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
